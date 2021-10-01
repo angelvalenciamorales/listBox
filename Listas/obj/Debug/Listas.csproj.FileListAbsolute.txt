@@ -1,0 +1,10 @@
+P:\Listasbox\Listas\Listas\bin\Debug\Listas.exe.config
+P:\Listasbox\Listas\Listas\bin\Debug\Listas.exe
+P:\Listasbox\Listas\Listas\bin\Debug\Listas.pdb
+P:\Listasbox\Listas\Listas\obj\Debug\Listas.csproj.AssemblyReference.cache
+P:\Listasbox\Listas\Listas\obj\Debug\Listas.lstMenor.resources
+P:\Listasbox\Listas\Listas\obj\Debug\Listas.Properties.Resources.resources
+P:\Listasbox\Listas\Listas\obj\Debug\Listas.csproj.GenerateResource.cache
+P:\Listasbox\Listas\Listas\obj\Debug\Listas.csproj.CoreCompileInputs.cache
+P:\Listasbox\Listas\Listas\obj\Debug\Listas.exe
+P:\Listasbox\Listas\Listas\obj\Debug\Listas.pdb
