@@ -44,5 +44,10 @@ namespace Listas
             lstInter.Items.Clear();
             Mayor.Items.Clear();
         }
+
+        private void lstMenor_Load(object sender, EventArgs e)
+        {
+            MessageBox.Show("Hello World");
+        }
     }
 }
