@@ -132,6 +132,7 @@ namespace Listas
             this.Controls.Add(this.comboBox1);
             this.Controls.Add(this.panel1);
             this.Name = "lstMenor";
+            this.Load += new System.EventHandler(this.lstMenor_Load);
             this.panel1.ResumeLayout(false);
             this.ResumeLayout(false);
 
